@@ -61,7 +61,7 @@ SpaceEscapeRunner/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/SpaceEscapeRunner.git
+git clone https://github.com/Raheem-AI-DS/SpaceEscapeRunner.git
 ```
 
 ### Navigate to Project Folder
